@@ -10,7 +10,7 @@ pantonFont.load().then(function (font) {
 });
 
 const baseImage = new Image();
-baseImage.src = "./apoioJorginho22.png";
+baseImage.src = "./apoioJorginho2022.png";
 
 document.getElementById("btnShare").addEventListener("click", shareImage);
 document.getElementById("btnSave").addEventListener("click", saveImage);
